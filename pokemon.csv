@@ -1,4 +1,4 @@
-#,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Ability3,Ability2,Ability1,Generation,Legendary,Mythical
+#,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Ability1,Ability2,Ability3,Generation,Legendary,Mythical
 1,Bulbasaur,Grass,Poison,318,45,49,49,65,65,45,Overgrow,Chlorophyll,,1,FALSE,FALSE
 2,Ivysaur,Grass,Poison,405,60,62,63,80,80,60,Overgrow,Chlorophyll,,1,FALSE,FALSE
 3,Venusaur,Grass,Poison,525,80,82,83,100,100,80,Overgrow,Chlorophyll,,1,FALSE,FALSE
