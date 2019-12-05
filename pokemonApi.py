@@ -49,7 +49,7 @@ def main():
         ',Sp. Def,Speed,Ability1,Ability2,Ability3,Generation' + \
         ',Legendary,Mythical\n'
     index = 1
-    while (index < 4):
+    while (index < 808):
         result += pokemonCSVEntry(index) + '\n'
         index+=1
     print(result)
