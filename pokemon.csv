@@ -823,7 +823,9 @@
 715,Noivern,Flying,Dragon,535,85,70,80,97,80,123,Frisk,Infiltrator,Telepathy,6,FALSE,FALSE
 716,Xerneas,Fairy,,680,126,131,95,131,98,99,Fairy Aura,,,6,TRUE,FALSE
 717,Yveltal,Dark,Flying,680,126,131,95,131,98,99,Dark Aura,,,6,TRUE,FALSE
-718,Zygarde 50% Forme,Dragon,Ground,600,108,100,121,81,95,95,Aura Break,,,6,TRUE,FALSE
+718,Zygarde 50% Forme,Dragon,Ground,600,108,100,121,81,95,95,Aura Break,Power Construct,,6,TRUE,FALSE
+718.1,Zygarde 10% Forme,Dragon,Ground,486,54,100,71,61,85,115,Aura Break, Power Construct,,6,TRUE,FALSE
+718.2,Zygarde Complete Forme,Dragon,Ground,708,216,100,121,91,95,85,Power Construct,,,6,TRUE,FALSE
 719,Diancie,Rock,Fairy,600,50,100,150,100,150,50,Clear Body,,,6,TRUE,TRUE
 719.1,Mega Diancie,Rock,Fairy,700,50,160,110,160,110,110,Magic Bounce,,,6,TRUE,TRUE
 720,Hoopa Confined Forme,Psychic,Ghost,600,80,110,60,150,130,70,Magician,,,6,TRUE,TRUE
